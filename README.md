@@ -1,5 +1,5 @@
 # Node REST API
-It's base on (https://github.com/ealeksandrov/NodeAPI),thanks for the author.
+It's base on [NodeAPI](https://github.com/ealeksandrov/NodeAPI) ,thanks for the author.
 
 `NodeAPI` is REST API server implementation built on top `Node.js` and `Express.js` with `Mongoose.js` for `MongoDB` integration. Access control follows `OAuth 2.0` spec with the help of `OAuth2orize` and `Passport.js`.
 
