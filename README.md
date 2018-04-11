@@ -72,7 +72,7 @@ docker exec nodeapi_node_api_1 node generateData.js
 
 ## Make Requests
 
-Make Signup
+Make Signup  
 <img src="./img-folder/signup.jpg" width="60%" height="60%" />
 
 Create and refresh access tokens:
