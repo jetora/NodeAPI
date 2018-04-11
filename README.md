@@ -1,13 +1,10 @@
 # Node REST API
-
-[![CI Status](http://img.shields.io/travis/ealeksandrov/NodeAPI.svg)](https://travis-ci.org/ealeksandrov/NodeAPI)
-[![Dependency Status](https://img.shields.io/david/ealeksandrov/NodeAPI.svg)](https://david-dm.org/ealeksandrov/NodeAPI)
-[![Dependency Status](https://img.shields.io/david/dev/ealeksandrov/NodeAPI.svg)](https://david-dm.org/ealeksandrov/NodeAPI)
-[![License](https://img.shields.io/github/license/ealeksandrov/NodeAPI.svg)](LICENSE.md)
+It's base on (https://github.com/ealeksandrov/NodeAPI),thanks for the author.
 
 `NodeAPI` is REST API server implementation built on top `Node.js` and `Express.js` with `Mongoose.js` for `MongoDB` integration. Access control follows `OAuth 2.0` spec with the help of `OAuth2orize` and `Passport.js`.
 
 This is updated code that follows [RESTful API With Node.js + MongoDB](https://aleksandrov.ws/2013/09/12/restful-api-with-nodejs-plus-mongodb) article.
+
 
 ## Running project
 
